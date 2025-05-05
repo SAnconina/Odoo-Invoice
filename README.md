@@ -2,7 +2,6 @@
 
 Ce module Odoo 🧩 vise à fournir des fonctionnalités de personnalisation du front-end des factures dans Odoo. Il permet aux utilisateurs de modifier et améliorer l’apparence des factures 🖌️ générées dans le système Odoo, offrant ainsi une expérience plus personnalisée et professionnelle 💼 pour les clients 👥.
 
----
 
 ## 🚀 Fonctionnalités principales 🔧
 
@@ -15,7 +14,6 @@ Les utilisateurs peuvent ajouter leurs propres styles CSS 🧵 pour adapter l’
 ### ➕ Ajout de Champ Personnalisé
 Possibilité d’ajouter des champs personnalisés 🏷️ à la facture pour inclure des informations spécifiques au contexte de l’entreprise 🧾📌.
 
----
 
 ## ⚙️ Installation 💻
 
@@ -31,7 +29,6 @@ Possibilité d’ajouter des champs personnalisés 🏷️ à la facture pour in
 
 4. 🧩 Activez le module **"DEVXOPS INVOICE CUSTOM"** dans la section **"Applications"**.
 
----
 
 ## 🧪 Utilisation 🖱️
 
